@@ -7,6 +7,6 @@ Behtar tareeqa: environment variables use karein taake password code mein na dik
 
 import os
 
-SENDER_EMAIL = os.getenv("SENDER_EMAIL", "your_email@gmail.com")
-SENDER_APP_PASSWORD = os.getenv("SENDER_APP_PASSWORD", "your_app_password")
-RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL", "receiver_email@gmail.com")
+SENDER_EMAIL = os.getenv("SENDER_EMAIL", "ayeshamumtaz1057@gmail.com")
+SENDER_APP_PASSWORD = os.getenv("SENDER_APP_PASSWORD", "akrlnngytangppli")
+RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL", "ayeshamumtaz1057@gmail.com")
