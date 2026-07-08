@@ -31,6 +31,19 @@ This project demonstrates a real-world automation workflow used in data collecti
 
 ---
 
+## 📸 Screenshots
+
+**GUI Interface — live pipeline with activity log**
+![GUI Interface](screenshots/gui-interface.png)
+
+**Running from the terminal**
+![Terminal Run](screenshots/terminal-run.png)
+
+**Generated PDF Report**
+![PDF Report](screenshots/pdf-report.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Purpose | Library |
