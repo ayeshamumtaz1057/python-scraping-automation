@@ -1,6 +1,6 @@
 # 🤖 Auto Scraper → Report → Email Automation
 
-A Python automation pipeline that **scrapes live web data**, **generates polished PDF/CSV reports**, and **emails them automatically** — all through a clean, beginner-friendly Tkinter GUI.
+A Python automation pipeline that **scrapes live web data**, **generates polished PDF/CSV reports**, and **emails them automatically** — all through a clean, beginner-friendly Tkinter GUI
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
