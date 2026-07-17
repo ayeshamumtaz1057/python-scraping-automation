@@ -8,6 +8,7 @@ A Python automation pipeline that **scrapes live web data**, **generates polishe
 
 ---
 
+
 ## 📌 Overview
 
 This project demonstrates a real-world automation workflow used in data collection, reporting, and notification systems — the same core pattern behind tools like scheduled analytics reports, price trackers, and monitoring bots.
