@@ -4,6 +4,7 @@
 
 A Python automation pipeline that **scrapes live web data**, **generates polished PDF/CSV reports**, and **emails them automatically** — all through a clean, beginner-friendly Tkinter GUI.
 
+ 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
