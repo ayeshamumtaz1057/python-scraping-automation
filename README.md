@@ -1,5 +1,5 @@
 <div align="center"> 
- 
+  
 # 🤖 Auto Scraper → Report → Email Automation 
 
 A Python automation pipeline that **scrapes live web data**, **generates polished PDF/CSV reports**, and **emails them automatically** — all through a clean, beginner-friendly Tkinter GUI.
