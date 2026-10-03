@@ -6,7 +6,7 @@ A Python automation pipeline that **scrapes live web data**, **generates polishe
 
  
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#) 
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-parsing-43B02A?style=flat-square)](https://www.crummy.com/software/BeautifulSoup/)
 [![fpdf2](https://img.shields.io/badge/fpdf2-PDF%20reports-E34F26?style=flat-square)](https://py-pdf.github.io/fpdf2/)
